@@ -1,0 +1,1 @@
+在 Ubuntu 中我们通常使用SS/SSR 等进行代理上网。SS等都是采用Sock5代理的，所以对于HTTP、HTTPS协议，它就无能为力了。所以为了在chrome浏览器中使用我们需要使用
