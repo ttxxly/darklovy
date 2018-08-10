@@ -1,3 +1,0 @@
-WORKBENCH_SAVE_INTERVAL=0
-eclipse.preferences.version=1
-org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding commandId\="org.xmind.ui.command.insertAttachment" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+A"/>\r\n</org.eclipse.ui.commands>
