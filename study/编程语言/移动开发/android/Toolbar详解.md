@@ -1,0 +1,32 @@
+关于溢出菜单不能同时显示图标和文本的问题
+
+```
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_bookrack_research"
+        android:title="搜索"
+        android:icon="@mipmap/ic_search_black_24dp"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@mipmap/ic_add_black_24dp"
+        android:title="add"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/menu_bookrack_edit"
+                android:title="编辑"
+                android:icon="@mipmap/ic_edit_black_24dp"
+                app:showAsAction="never|withText"
+                />
+        </menu>
+
+    </item>
+
+</menu>
+```
+

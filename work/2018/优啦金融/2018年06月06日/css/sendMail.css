@@ -1,0 +1,27 @@
+.layui-form-label {
+    width: 160px;
+}
+.layui-input-block {
+    margin-left: 0px;
+    float: left;
+}
+#submit-project {
+    margin-left: 190px;
+    margin-top: 50px
+}
+.layui-upload-list {
+    margin: 10px 0px 10px 190px;
+}
+.muban-box {
+    width: 33.3%;
+    float: left;
+}
+.muban {
+    float: left;
+    overflow: auto;
+    width: 900px;
+    height: 225px;
+}
+#send-mail-upload{
+    margin-top: 20px;
+}
