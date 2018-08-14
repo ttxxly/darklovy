@@ -111,3 +111,25 @@ Ctrl + Alt + L:格式化代码
 	右边 设置并添加
 ```
 
+IDEA
+
+```
+Cltr + D ： 复制光标所在行的内容并插入到下一行
+Ctrl + E ： 显示最近打开的文件记录列表
+Ctrl + F ： 在当前文件进行文本查找
+Ctrl + F12 ： 类所有方法
+Ctrl + P : 方法参数提示显示
+
+Alt + Insert ： 代码自动生成， set/get 方法，构造函数 toString() 函数
+
+Shift + F6 ： 重命名
+
+Ctrl + Alt + S ： 打开 IDEA 系统设置
+
+Ctrl + Shift + / ： 代码块注释
+
+sout ： System.out.println() 快捷键
+fori ： for 循环快捷键
+psvm ： main 方法快捷键
+```
+
