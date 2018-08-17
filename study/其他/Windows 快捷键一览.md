@@ -45,6 +45,8 @@ Alt + N: 创建一个空的Activity
 Alt + A: 关闭标签页
 Alt + insert：打开构造器、getter、setter、toString等选择页面
 double shift：搜索任何地方
+Ctrl + F ： 查找
+Ctrl + R ： 替换
 ```
 
 eclipse 快捷键
