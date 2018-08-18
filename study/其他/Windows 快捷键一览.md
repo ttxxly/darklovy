@@ -21,8 +21,6 @@ Alt + Left: 上一首
 Alt + Right: 下一首
 Alt + up： 增大音量
 Alt + Down： 减少音量
-Ctrl + Alt + V: 添加到我喜欢
-Shift + Alt + S： 听歌识曲
 ```
 
 网易云音乐快捷键：
@@ -34,7 +32,6 @@ Alt + Left: 上一首
 Alt + Right: 下一首
 Alt + up： 增大音量
 Alt + Down： 减少音量
-Ctrl + Alt + V: 添加到我喜欢
 ```
 
 Android studio 快捷键
@@ -123,11 +120,12 @@ Ctrl + F12 ： 类所有方法
 Ctrl + P : 方法参数提示显示
 
 Alt + Insert ： 代码自动生成， set/get 方法，构造函数 toString() 函数
+Alt + C ： git commit 文件
 
 Shift + F6 ： 重命名
-
+Shift + P ： Git Push
 Ctrl + Alt + S ： 打开 IDEA 系统设置
-
+Cltr + Alt + L ： 格式化代码
 Ctrl + Shift + / ： 代码块注释
 
 sout ： System.out.println() 快捷键
