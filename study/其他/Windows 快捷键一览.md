@@ -52,6 +52,7 @@ eclipse 快捷键
 Alt + p: 打开 Preferences
 Ctrl + /: 注释（取消注释）
 Ctrl+Shift+F：格式化代码（注意和搜狗输入法冲突，需要关闭搜狗输入法的快捷键）
+  右键 -> Source -> Format
 Ctrl+Shift+O：组织导入
 Ctrl+D 删除当前行
 Ctrl+Alt+↓ 复制当前行到下一行(复制增加)
