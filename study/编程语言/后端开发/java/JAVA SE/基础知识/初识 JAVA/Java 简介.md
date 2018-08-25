@@ -57,4 +57,4 @@ Java ME 主要用于嵌入式系统开发，如掌上电脑，手机等移动电
 
 * [我的博客](https://www.ttxxly.top/2018/08/05/Java-%E7%AE%80%E4%BB%8B/)
 * [CSDN](https://blog.csdn.net/jdliyao/article/details/81452361)
-
+* [有道云笔记](http://note.youdao.com/noteshare?id=08cca75b7ac066e93a2fac491d65709e&sub=3D69156F9BAD4487B49650A341A2DF74) 

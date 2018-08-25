@@ -59,4 +59,4 @@ Java 可以动态调整库中方法和增加变量，而客户端却不需要任
 发表地址
 
 * [我的博客](https://www.ttxxly.top/2018/08/05/Java-%E8%AF%AD%E8%A8%80%E7%89%B9%E6%80%A7/)
-
+* [有道云笔记](http://note.youdao.com/noteshare?id=fa93181006561f9f168e0e7c0db4a42d&sub=7F2982E39AA94398A0F1096A5DE2E54B) 

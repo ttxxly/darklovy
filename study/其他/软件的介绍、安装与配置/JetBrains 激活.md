@@ -42,3 +42,4 @@ http://idea.toocruel.net/
 
 * [csdn](https://blog.csdn.net/jdliyao/article/details/80571914)
 
+* [有道云笔记](http://note.youdao.com/noteshare?id=c3af682fc4bc15961374e5cd3bd27532&sub=16EFCFAD0DC546B6B0488A09D56FDF73) 

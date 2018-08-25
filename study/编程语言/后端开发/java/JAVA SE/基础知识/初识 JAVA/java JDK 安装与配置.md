@@ -52,11 +52,17 @@ This is a java Application.
 
 
 
-支持我的话可以关注下我的微信公众号，每天都会推送新知识~ 
+感兴趣的话可以点击下面的链接，关注我的微信公众号和我的知识星球。
 
-> ![](C:\Users\ttxxl\Pictures\20180404220912740.jpg) ![](C:\Users\ttxxl\Pictures\qrcode_for_gh_e125acf2ab2b_258.jpg)
+> https://www.ttxxly.top/images/qrcode_darklovy.jpg
+>
+> https://www.ttxxly.top/images/qrcode_ttxxly123.jpg
+>
+> https://www.ttxxly.top/images/ZSXQ_darklovy.png
+
+
 
 发表地址：
 
 * https://blog.csdn.net/jdliyao/article/details/81198232
-* https://mp.weixin.qq.com/s__biz=MzUxMTYyMjkxMg==&mid=2247483745&idx=1&sn=f809cf055af1895b3557e5931a8c7aa5&chksm=f971ab0ece062218e4cec9176b96b6374b4a997014e24d773d9bc3563caa5b86e816cee91cd4&mpshare=1&scene=1&srcid=0727xCXYHViaY2ZLAlRunsd2#rd
+* [有道云笔记](http://note.youdao.com/noteshare?id=558356e88cbc7c210000a04dfa61b388&sub=55B94E552E554195A1DFB04B8429997F) 
