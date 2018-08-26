@@ -10,7 +10,6 @@ Struts 是 Apache 软件基金会（ASF）赞助的一个开源项目，采用 J
   b. 页面导航
 2. 缺点
   a. OGNL 请求处理机制极易产生远程执行问题。
-  b. 开发组对漏铜处理的能力不足
 ```
 
 #### 常见的 Web 层框架
@@ -21,3 +20,15 @@ Struts 是 Apache 软件基金会（ASF）赞助的一个开源项目，采用 J
 3. SpringMVC
 ```
 
+感兴趣的话可以点击下面的链接，关注我的微信公众号和我的知识星球。
+
+https://www.ttxxly.top/images/qrcode_darklovy.jpg
+
+https://www.ttxxly.top/images/qrcode_ttxxly123.jpg
+
+https://www.ttxxly.top/images/ZSXQ_darklovy.png
+
+
+发表地址：
+
+* [有道云笔记](http://note.youdao.com/noteshare?id=54d67605450fa3a8b5a0d26910bcd578&sub=331C15F0D2F14210B1B2D48365381322) 
