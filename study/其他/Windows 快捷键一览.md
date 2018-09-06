@@ -113,7 +113,7 @@ Ctrl + Alt + L:格式化代码
 	右边 设置并添加
 ```
 
-IDEA
+#### IDEA
 
 ```
 Cltr + D ： 复制光标所在行的内容并插入到下一行
@@ -124,6 +124,8 @@ Ctrl + P : 方法参数提示显示
 
 Alt + Insert ： 代码自动生成， set/get 方法，构造函数 toString() 函数
 Alt + C ： git commit 文件
+Alt + p ： git push
+
 
 Shift + F6 ： 重命名
 Shift + P ： Git Push
