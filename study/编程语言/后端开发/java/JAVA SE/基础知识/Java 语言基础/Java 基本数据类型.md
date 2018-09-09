@@ -48,3 +48,16 @@ float f1 = 12.23f;
 | long     | Long      | 8        | -9223372036854775808 （-2的63次方）   ~  9223372036854775807 |
 | float    | Float     | 4        | 1.4E-45(2的-149次方）   ~  3.4028235E38  （2的128次方-1）    |
 | double   | Double    | 8        | 4.9E-324 (2的-1074次方）    ~ 1.7976931348623157E308 （2的1024次方-1） |
+
+感兴趣的话可以点击下面的链接，关注我的微信公众号和我的知识星球。
+
+https://www.ttxxly.top/images/qrcode_darklovy.jpg
+
+https://www.ttxxly.top/images/qrcode_ttxxly123.jpg
+
+https://www.ttxxly.top/images/ZSXQ_darklovy.png
+
+发表地址：
+
+* [有道云笔记](http://note.youdao.com/noteshare?id=4040a1fb82f9a1e34b949d257294ee1d&sub=561D13E2E09740688D01AF73A01D84B2)
+
