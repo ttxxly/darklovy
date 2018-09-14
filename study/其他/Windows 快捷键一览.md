@@ -41,7 +41,7 @@ Alt + F: 创建一个新类
 Alt + N: 创建一个空的Activity
 Alt + A: 关闭标签页
 Alt + insert：打开构造器、getter、setter、toString等选择页面
-Alt + p ： git push
+Alt + shift + k ： git push
 double shift：搜索任何地方
 Ctrl + F ： 查找
 Ctrl + R ： 替换
