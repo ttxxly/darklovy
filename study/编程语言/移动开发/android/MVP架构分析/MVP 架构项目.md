@@ -1,1 +1,0 @@
-* https://github.com/googlesamples/android-architecture 谷歌官方

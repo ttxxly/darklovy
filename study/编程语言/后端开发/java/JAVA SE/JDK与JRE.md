@@ -1,2 +1,0 @@
-* JRE： Java Runtime Environment（java 运行时环境）：包含java虚拟机、java基础类库。是使用java编写的程序运行所必须的软件环境。（提供给想运行java程序的用户所使用的。）
-* JDK：Java Development Kit ：java开发工具包，包含了jre，还包含了编译java源码的编译器javac、程序调式和分析的工具（jconsole、jvisualvm等工具软件）、java程序编写所需的文档和Demo程序。
