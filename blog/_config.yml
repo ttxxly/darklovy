@@ -4,11 +4,11 @@
 
 # Site
 title: Darklovy
-subtitle: 不疯魔，不成活。
+subtitle: Know more,Do more,Be more.
 description:
 keywords:
 author: Darklovy
-language:
+language: en
 timezone:
 
 # URL
@@ -73,12 +73,40 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cafe
+theme: indigo
+
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+- type: git
   repo:
     github: git@github.com:ttxxly/ttxxly.github.io.git,master
     coding: https://git.coding.net/ttxxly/ttxxly.coding.me.git,master
+    
+## feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
+ 
+# https://github.com/alexbruno/hexo-generator-json-content
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true
+    date: true
+    path: true
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
